@@ -1,0 +1,263 @@
+{
+  "files": [
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/Glitch_model_for_GWTC-3.html"
+      }, 
+      "checksum": "md5:40bb723da04aff3469e4d87b6911ac6c", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "Glitch_model_for_GWTC-3.html", 
+      "type": "html", 
+      "size": 794571
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/Glitch_model_for_GWTC-3.ipynb"
+      }, 
+      "checksum": "md5:c9ad875aa52096897b092a7c1cbbeaf0", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "Glitch_model_for_GWTC-3.ipynb", 
+      "type": "ipynb", 
+      "size": 513597
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/H-H1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1257296641-3327.gwf"
+      }, 
+      "checksum": "md5:cfb346319d181804c1a8bf9e3c631682", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "H-H1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1257296641-3327.gwf", 
+      "type": "gwf", 
+      "size": 1308243140
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/H-H1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1257664512-4096.gwf"
+      }, 
+      "checksum": "md5:8c01c5b1fd28256fec425c1309ee95df", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "H-H1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1257664512-4096.gwf", 
+      "type": "gwf", 
+      "size": 1610626244
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/H-H1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1258864640-4096.gwf"
+      }, 
+      "checksum": "md5:6faae1dce3fc8713404500efa8c923ba", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "H-H1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1258864640-4096.gwf", 
+      "type": "gwf", 
+      "size": 1610626244
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/H-H1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1260806144-4096.gwf"
+      }, 
+      "checksum": "md5:97e20029a4dd628ecad0a3601be17ee5", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "H-H1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1260806144-4096.gwf", 
+      "type": "gwf", 
+      "size": 1610626244
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/L-L1_HOFT_CLEAN_SUB60HZ_C01_P1800169_v4-1264314068-4096.gwf"
+      }, 
+      "checksum": "md5:39b84d69d21748ad9b06c912ec616d5d", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "L-L1_HOFT_CLEAN_SUB60HZ_C01_P1800169_v4-1264314068-4096.gwf", 
+      "type": "gwf", 
+      "size": 511553596
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/L-L1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1257295872-4096.gwf"
+      }, 
+      "checksum": "md5:df7505410ee097dee32077ac9eac7180", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "L-L1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1257295872-4096.gwf", 
+      "type": "gwf", 
+      "size": 1610626244
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/L-L1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1260806144-4096.gwf"
+      }, 
+      "checksum": "md5:1fec0c208500cd37b1be2e08f55a2436", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "L-L1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1260806144-4096.gwf", 
+      "type": "gwf", 
+      "size": 1610626244
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/L-L1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1262276608-1440.gwf"
+      }, 
+      "checksum": "md5:d4e576d02c476e61ef7b1fa5b3f15971", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "L-L1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1262276608-1440.gwf", 
+      "type": "gwf", 
+      "size": 566244548
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/L-L1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1263095808-4096.gwf"
+      }, 
+      "checksum": "md5:686bec179332e29b4123b6dd2780d61f", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "L-L1_HOFT_CLEAN_SUB60HZ_C01_T1700406_v4-1263095808-4096.gwf", 
+      "type": "gwf", 
+      "size": 1610626244
+    }, 
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9/V-V1Online_T1700406_v4-1256998000-2000.gwf"
+      }, 
+      "checksum": "md5:f35bb1e7ec6b34410bdc270fe3333cbd", 
+      "bucket": "45f8065f-0133-45d4-a088-dc4565c81ab9", 
+      "key": "V-V1Online_T1700406_v4-1256998000-2000.gwf", 
+      "type": "gwf", 
+      "size": 786445353
+    }
+  ], 
+  "owners": [
+    256464
+  ], 
+  "doi": "10.5281/zenodo.5546680", 
+  "stats": {
+    "version_unique_downloads": 13.0, 
+    "unique_views": 106.0, 
+    "views": 125.0, 
+    "version_views": 125.0, 
+    "unique_downloads": 13.0, 
+    "version_unique_views": 106.0, 
+    "volume": 83568632053.0, 
+    "version_downloads": 80.0, 
+    "downloads": 80.0, 
+    "version_volume": 83568632053.0
+  }, 
+  "links": {
+    "doi": "https://doi.org/10.5281/zenodo.5546680", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.5546679", 
+    "bucket": "https://zenodo.org/api/files/45f8065f-0133-45d4-a088-dc4565c81ab9", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.5546679.svg", 
+    "html": "https://zenodo.org/record/5546680", 
+    "latest_html": "https://zenodo.org/record/5546680", 
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.5546680.svg", 
+    "latest": "https://zenodo.org/api/records/5546680"
+  }, 
+  "conceptdoi": "10.5281/zenodo.5546679", 
+  "created": "2021-11-08T01:05:36.450354+00:00", 
+  "updated": "2021-11-10T20:35:17.346161+00:00", 
+  "conceptrecid": "5546679", 
+  "revision": 4, 
+  "id": 5546680, 
+  "metadata": {
+    "access_right_category": "success", 
+    "doi": "10.5281/zenodo.5546680", 
+    "description": "<p>This material is part of several data products associated with GWTC-3, the third Gravitational-Wave Transient Catalog from the <a href=\"https://www.ligo.org/\">LIGO</a> Scientific Collaboration, the <a href=\"https://www.virgo-gw.eu/\">Virgo</a> Collaboration, and the <a href=\"https://gwcenter.icrr.u-tokyo.ac.jp/en/\">KAGRA</a> Collaboration. For more information, see the paper (<a href=\"https://dcc.ligo.org/LIGO-P2000318/public\">dcc.ligo.org/LIGO-P2000318/public</a>), the related material linked from this page, and the GWTC-3 data release documentation (<a href=\"https://www.gw-openscience.org/GWTC-3/)\">www.gw-openscience.org/GWTC-3/</a>).</p>\n\n<p><strong>Glitch model for GWTC-3 events</strong></p>\n\n<p>Glitch model for events in the GWTC-3 catalog that used either <a href=\"https://git.ligo.org/lscsoft/bayeswave\">BayesWave</a> glitch subtraction or linear noise subtraction.</p>\n\n<p>Each data file for events processed with BayesWave contain three channels:</p>\n\n<ol>\n\t<li>The calibrated strain data, including any glitches that are present,</li>\n\t<li>A model of the glitches, produced using the BayesWave algorithm,</li>\n\t<li>The calibrated data with the glitch model subtracted, used for parameter estimation.</li>\n</ol>\n\n<p>Each data file for events processed with linear noise subtraction contain one channel:</p>\n\n<ol>\n\t<li>The calibrated data with the glitch linearly subtracted, used for parameter estimation.</li>\n</ol>\n\n<p>LIGO Hanford&nbsp;data for events GW191109_010717, GW191113_071753, GW191127_050227, and GW191219_163120 was generated with BayesWave. The names and sample rates (in Hz) of the channels in these files are</p>\n\n<ol>\n\t<li>H1:DCS-CALIB_STRAIN_CLEAN_SUB60HZ_C01 16384</li>\n\t<li>H1:DCS-CALIB_STRAIN_CLEAN_SUB60HZ_C01_glitch 16384</li>\n\t<li>H1:DCS-CALIB_STRAIN_CLEAN_SUB60HZ_C01_T1700406_v4 16384</li>\n</ol>\n\n<p>LIGO Livingston data for events GW191109_010717, GW191219_16312, GW200105_162426, and GW200115_042309 was generated with BayesWave. The names and sample rates (in Hz) of the channels in these files are</p>\n\n<ol>\n\t<li>L1:DCS-CALIB_STRAIN_CLEAN_SUB60HZ_C01 16384</li>\n\t<li>L1:DCS-CALIB_STRAIN_CLEAN_SUB60HZ_C01_glitch 16384</li>\n\t<li>L1:DCS-CALIB_STRAIN_CLEAN_SUB60HZ_C01_T1700406_v4 16384</li>\n</ol>\n\n<p>Virgo data for event GW191105_143521 was generated with BayesWave. The names and sample rates&nbsp;(in Hz) of the channels in this file are</p>\n\n<ol>\n\t<li>V1:Hrec_hoft_16384Hz 16384</li>\n\t<li>V1:Hrec_hoft_16384Hz_glitch 16384</li>\n\t<li>V1:Hrec_hoft_16384Hz_T1700406_v4 16384</li>\n</ol>\n\n<p>LIGO Livingston data for event GW200129_065458 was generated with linear noise subtraction. The name&nbsp;and sample rate&nbsp;(in Hz)&nbsp;of the channel in this file is</p>\n\n<ol>\n\t<li>L1:DCS-CALIB_STRAIN_CLEAN_SUB60HZ_C01_P1800169_v4 16384</li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p>For more general background on gravitational-wave data quality, try the materials from a <a href=\"https://www.gw-openscience.org/workshops/\">GW Open Data Workshop</a> or the <a href=\"https://doi.org/10.1088/1361-6382/ab685e\">guide to LIGO&ndash;Virgo data analysis</a>.</p>", 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "title": "GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo During the Second Part of the Third Observing Run \u2014 Glitch modelling for events", 
+    "notes": "LIGO Laboratory and Advanced LIGO are funded by the United States National Science Foundation (NSF) as well as the Science and Technology Facilities Council (STFC) of the United Kingdom, the Max-Planck-Society (MPS), and the State of Niedersachsen/Germany for support of the construction of Advanced LIGO and construction and operation of the GEO600 detector. Additional support for Advanced LIGO was provided by the Australian Research Council. Virgo is funded, through the European Gravitational Observatory (EGO), by the French Centre National de Recherche Scientifique (CNRS), the Italian Istituto Nazionale di Fisica Nucleare (INFN) and the Dutch Nikhef, with contributions by institutions from Belgium, Germany, Greece, Hungary, Ireland, Japan, Monaco, Poland, Portugal, Spain. The construction and operation of KAGRA are funded by Ministry of Education, Culture, Sports, Science and Technology (MEXT), and Japan Society for the Promotion of Science (JSPS), National Research Foundation (NRF) and Ministry of Science and ICT (MSIT) in Korea, Academia Sinica (AS) and the Ministry of Science and Technology (MoST) in Taiwan.", 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "5546679"
+          }, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "5546680"
+          }
+        }
+      ]
+    }, 
+    "references": [
+      "LIGO Scientific Collaboration and Virgo Collaboration and KAGRA Collaboration, GWTC-3, https://doi.org/10.7935/b024-1886"
+    ], 
+    "communities": [
+      {
+        "id": "ligo-virgo-kagra"
+      }
+    ], 
+    "publication_date": "2021-11-08", 
+    "creators": [
+      {
+        "name": "LIGO Scientific Collaboration and Virgo Collaboration and KAGRA Collaboration"
+      }
+    ], 
+    "access_right": "open", 
+    "resource_type": {
+      "type": "dataset", 
+      "title": "Dataset"
+    }, 
+    "related_identifiers": [
+      {
+        "scheme": "url", 
+        "identifier": "https://dcc.ligo.org/LIGO-P2000318/public", 
+        "relation": "isSupplementTo", 
+        "resource_type": "publication-preprint"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5636795", 
+        "relation": "isSupplementedBy", 
+        "resource_type": "dataset"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5636815", 
+        "relation": "isSupplementedBy", 
+        "resource_type": "dataset"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5546664", 
+        "relation": "isSupplementedBy", 
+        "resource_type": "dataset"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5546675", 
+        "relation": "isSupplementedBy", 
+        "resource_type": "dataset"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5546662", 
+        "relation": "isSupplementedBy", 
+        "resource_type": "dataset"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5571766", 
+        "relation": "isSupplementedBy", 
+        "resource_type": "dataset"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5650061", 
+        "relation": "isSupplementedBy", 
+        "resource_type": "dataset"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5645777", 
+        "relation": "isSupplementedBy", 
+        "resource_type": "dataset"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.5546679", 
+        "relation": "isVersionOf"
+      }
+    ]
+  }
+}
